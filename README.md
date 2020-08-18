@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ken Mwaura
+### Hi there 👋, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> my name is Ken Mwaura
 #### Software Engineer
 ![Software Engineer](https://github.com/KenMwaura1/KenMwaura1/blob/master/images/banner.jpg)
 
