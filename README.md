@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Share Price Notifications using Python, SQL and Africas Talking - Part One](https://zoo.hashnode.dev/daily-share-price-notifications-using-python-sql-and-africas-talking-part-one)
 - [Automate Customer Rewards using Python, Postgresql and Africas Talking](https://zoo.hashnode.dev/automate-customer-rewards-using-python-postgresql-and-africas-talking)
 - [Daily News Scraper and Notifications - Part Two](https://zoo.hashnode.dev/daily-news-scraper-and-notifications-part-two)
 - [Daily News Scraper and Sms Notifications - Part One](https://zoo.hashnode.dev/daily-news-scraper-and-sms-notifications-part-one)
 - [Sending Bulk SMS using Africas Talking, Python and CSV](https://zoo.hashnode.dev/sending-bulk-sms-using-africas-talking-python-and-csv)
-- [Sending Bulk SMS using Africas Talking, Python and Excel](https://zoo.hashnode.dev/sending-bulk-sms-using-africas-talking-python-and-excel)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://https://zoo.hashnode.dev/) 
