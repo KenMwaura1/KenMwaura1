@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide to GitHub Actions, Django and Docker](https://zoo.hashnode.dev/beginners-guide-to-github-actions-django-and-docker)
 - [Getting Started with Flask and Docker 🐳🚀](https://zoo.hashnode.dev/getting-started-with-flask-and-docker)
 - [Automated Airtime Disbursal using Google Forms, Python, Africas Talking Airtime Api and Heroku](https://zoo.hashnode.dev/automated-airtime-disbursal-using-google-forms-python-africas-talking-airtime-api-and-heroku)
 - [Daily Share Price Notifications using Python, SQL and Africas Talking - Part Two](https://zoo.hashnode.dev/daily-share-price-notifications-using-python-sql-and-africas-talking-part-two)
 - [Daily Share Price Notifications using Python, SQL and Africas Talking - Part One](https://zoo.hashnode.dev/daily-share-price-notifications-using-python-sql-and-africas-talking-part-one)
-- [Automate Customer Rewards using Python, Postgresql and Africas Talking](https://zoo.hashnode.dev/automate-customer-rewards-using-python-postgresql-and-africas-talking)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://https://zoo.hashnode.dev/) 
