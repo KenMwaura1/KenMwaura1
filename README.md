@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Docker Image Builds and Push to Docker Hub Using GitHub Actions](https://zoo.hashnode.dev/automate-docker-image-builds-and-push-to-docker-hub-using-github-actions)
 - [Getting Started with Fast-Api 🏎️ and Docker🐳](https://zoo.hashnode.dev/getting-started-with-fast-api-and-docker)
 - [Getting Started with a Web Scraping Project](https://zoo.hashnode.dev/getting-started-with-a-web-scraping-project)
 - [Nairobi Stock Exchange Web Scraper &lpar;MongoDB Atlas Hackathon 2022 on DEV&rpar;](https://zoo.hashnode.dev/nairobi-stock-exchange-web-scraper-mongodb-atlas-hackathon-2022-on-dev)
 - [Crypto Data Bot using Python, Binance WebSockets and PostgreSQL DB](https://zoo.hashnode.dev/crypto-data-bot-using-python-binance-websockets-and-postgresql-db)
-- [Beginners Guide to GitHub Actions, Django and Docker](https://zoo.hashnode.dev/beginners-guide-to-github-actions-django-and-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
