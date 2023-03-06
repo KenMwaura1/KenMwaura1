@@ -33,9 +33,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 
-![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=KenMwaura1&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenMwaura1&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=KenMwaura1&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenMwaura1&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KenMwaura1&repo=Fast-Api-example)](https://github.com/KenMwaura1/Fast-Api-example)
 
 ![Profile views](https://gpvc.arturio.dev/KenMwaura1)
 
