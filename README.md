@@ -42,3 +42,6 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 ![Profile views](https://gpvc.arturio.dev/KenMwaura1)
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+
+
+Buy me a [coffee!](https://ko-fi.com/kenmwaura1)
