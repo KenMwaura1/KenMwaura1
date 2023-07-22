@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Python Linting and Code Style Enforcement with Ruff and GitHub Actions](https://zoo.hashnode.dev/automate-python-linting-and-code-style-enforcement-with-ruff-and-github-actions)
 - [Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://zoo.hashnode.dev/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff)
 - [Optimizing GitHub Actions Performance: Enhance Workflows with Caching](https://zoo.hashnode.dev/optimizing-github-actions-performance-enhance-workflows-with-caching)
 - [Top Productivity CLI Tools I Use on Linux](https://zoo.hashnode.dev/top-productivity-cli-tools-i-use-on-linux)
 - [Getting Started: Monitoring a FastAPI App with Grafana and Prometheus - A Step-by-Step Guide](https://zoo.hashnode.dev/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide)
-- [Run GitHub Actions on Your Local Machine! 🐙 💻](https://zoo.hashnode.dev/run-github-actions-on-your-local-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
