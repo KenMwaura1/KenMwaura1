@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 3 - Error Notifications](https://zoo.hashnode.dev/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-3-error-notifications)
 - [Getting Started with SMS Notifications using Africas Talking and GitHub Actions Part 2](https://zoo.hashnode.dev/getting-started-with-sms-notifications-using-africas-talking-and-github-actions-part-2)
 - [Getting Started with SMS Notifications using Africas Talking and GitHub Actions](https://zoo.hashnode.dev/getting-started-with-sms-notifications-using-africas-talking-and-github-actions)
 - [Automate Python Linting and Code Style Enforcement with Ruff and GitHub Actions](https://zoo.hashnode.dev/automate-python-linting-and-code-style-enforcement-with-ruff-and-github-actions)
 - [Enhancing Python Code Quality: A Comprehensive Guide to Linting with Ruff](https://zoo.hashnode.dev/enhancing-python-code-quality-a-comprehensive-guide-to-linting-with-ruff)
-- [Optimizing GitHub Actions Performance: Enhance Workflows with Caching](https://zoo.hashnode.dev/optimizing-github-actions-performance-enhance-workflows-with-caching)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
