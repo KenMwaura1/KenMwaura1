@@ -37,9 +37,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenMwaura1&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KenMwaura1)](https://github.com/LordDashMe/github-contribution-stats/)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KenMwaura1&repo=Fast-Api-example)](https://github.com/KenMwaura1/Fast-Api-example)
 
-![Profile views](https://gpvc.arturio.dev/KenMwaura1)
+
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
