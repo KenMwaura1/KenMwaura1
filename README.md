@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [My Secret to Staying Ahead of the Tech Curve: How daily.dev Has Been a Game-Changer](https://zoo.hashnode.dev/my-secret-to-staying-ahead-of-the-tech-curve-how-dailydev-has-been-a-game-changer)
 - [From OVA to Qcow2: A Step-by-Step Guide to Unlocking Qemu&#39;s Power](https://zoo.hashnode.dev/from-ova-to-qcow2-a-step-by-step-guide-to-unlocking-qemus-power)
 - [Troubleshooting Common Issues in Kubernetes Deployments](https://zoo.hashnode.dev/troubleshooting-common-issues-in-kubernetes-deployments)
 - [Deployments and Load Balancing in Kubernetes](https://zoo.hashnode.dev/deployments-and-load-balancing-in-kubernetes)
 - [Getting Started with Kubernetes Deployments and Services](https://zoo.hashnode.dev/getting-started-with-kubernetes-deployments-and-services)
-- [Containerized Application Deployment on Amazon EKS with Jenkins Pipeline](https://zoo.hashnode.dev/containerized-application-deployment-on-amazon-eks-with-jenkins-pipeline)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
