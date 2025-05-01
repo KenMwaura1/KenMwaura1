@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested Virtualization using VMware Workstation, Esxi and Windows 10 on Linux - Part 1](https://zoo.hashnode.dev/nested-virtualization-using-vmware-workstation-esxi-and-windows-10-on-linux-part-1)
-- [28 Common Linux 🐧Questions And Answers 🖥️](https://zoo.hashnode.dev/28-common-linux-questions-and-answers)
-- [My Secret to Staying Ahead of the Tech Curve: How daily.dev Has Been a Game-Changer](https://zoo.hashnode.dev/my-secret-to-staying-ahead-of-the-tech-curve-how-dailydev-has-been-a-game-changer)
-- [From OVA to Qcow2: A Step-by-Step Guide to Unlocking Qemu&#39;s Power](https://zoo.hashnode.dev/from-ova-to-qcow2-a-step-by-step-guide-to-unlocking-qemus-power)
-- [Troubleshooting Common Issues in Kubernetes Deployments](https://zoo.hashnode.dev/troubleshooting-common-issues-in-kubernetes-deployments)
+- [[Boost]](https://dev.to/ken_mwaura1/-4599)
+- [Nested Virtualization using VMware Workstation, Esxi and Windows 10 on Linux - Part 1](https://dev.to/ken_mwaura1/nested-virtualization-using-vmware-workstation-esxi-and-windows-10-on-linux-part-1-3oc4)
+- [28 Common Linux 🐧Questions And Answers 🖥️](https://dev.to/ken_mwaura1/linux-answers-pbb)
+- [My Secret to Staying Ahead of the Tech Curve: How daily.dev Has Been a Game-Changer](https://dev.to/ken_mwaura1/my-secret-to-staying-ahead-of-the-tech-curve-how-dailydev-has-been-a-game-changer-1mgk)
+- [From OVA to Qcow2: A Step-by-Step Guide to Unlocking Qemu&#39;s Power](https://dev.to/ken_mwaura1/from-ova-to-qcow2-a-step-by-step-guide-to-unlocking-qemus-power-eoi)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
