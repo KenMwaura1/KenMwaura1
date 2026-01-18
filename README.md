@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ken_mwaura1/-3bna)
+- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
 - [[Boost]](https://dev.to/ken_mwaura1/-301p)
 - [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
 - [Nested Virtualization using VMware Workstation, Esxi and Windows 10 on Linux - Part 1](https://dev.to/ken_mwaura1/nested-virtualization-using-vmware-workstation-esxi-and-windows-10-on-linux-part-1-3oc4)
-- [28 Common Linux 🐧Questions And Answers 🖥️](https://dev.to/ken_mwaura1/linux-answers-pbb)
-- [My Secret to Staying Ahead of the Tech Curve: How daily.dev Has Been a Game-Changer](https://dev.to/ken_mwaura1/my-secret-to-staying-ahead-of-the-tech-curve-how-dailydev-has-been-a-game-changer-1mgk)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
