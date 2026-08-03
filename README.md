@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ken_mwaura1/-5flo)
+- [Engineering JengaStack: How We Built Managed Odoo 19 &amp; Automated KRA eTIMs Compliance for Kenya](https://dev.to/ken_mwaura1/engineering-jengastack-how-we-built-managed-odoo-19-automated-kra-etims-compliance-for-kenya-53g3)
 - [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
 - [[Boost]](https://dev.to/ken_mwaura1/-3bna)
 - [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
-- [[Boost]](https://dev.to/ken_mwaura1/-301p)
-- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
