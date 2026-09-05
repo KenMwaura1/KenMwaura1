@@ -19,11 +19,11 @@ Skills: PYTHON /VUE JS / REACT JS / VANILLA JS / HTML / CSS / WORDPRESS
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Production KRA eTIMS and Safaricom M-Pesa Integrations for Odoo 19](https://dev.to/ken_mwaura1/building-production-kra-etims-and-safaricom-m-pesa-integrations-for-odoo-19-2f29)
 - [[Boost]](https://dev.to/ken_mwaura1/-5d22)
 - [Building Managed Odoo Infrastructure in Kenya: What We Shipped This Week &lpar;August 5, 2026&rpar; 🛠️🇰🇪](https://dev.to/ken_mwaura1/continuous-improvement-what-we-shipped-to-jengastack-this-week-4h5m)
 - [[Boost]](https://dev.to/ken_mwaura1/-5flo)
 - [Engineering JengaStack: How We Built Managed Odoo 19 &amp; Automated KRA eTIMs Compliance for Kenya](https://dev.to/ken_mwaura1/engineering-jengastack-how-we-built-managed-odoo-19-automated-kra-etims-compliance-for-kenya-53g3)
-- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/ken_mwaura1/) 
